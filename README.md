@@ -31,4 +31,4 @@ To install and run the Gemini Clone project, follow these steps:
 We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING.md) for more details.
 
 ## Contact
-For any questions or feedback, please open an issue on the [GitHub repository](https://github.com/sharjeel-siddiqui12/gemini-clone.git/issues).
+For any questions or feedback, please open an issue on the [GitHub repository](https://github.com/sharjeel-siddiqui12/gemini-clone/issues).
