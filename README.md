@@ -1,7 +1,7 @@
 # Gemini Clone
 
 ## Project Overview
-Gemini Clone is a project that aims to replicate the core functionalities of the Gemini protocol, a lightweight and privacy-focused internet protocol. This project serves as an educational tool to understand the workings of the Gemini protocol and to experiment with its features.
+This project is a Gemini Clone that aims to replicate the core functionalities of the Gemini protocol, a lightweight and privacy-focused internet protocol. This project serves as an educational tool to understand the workings of the Gemini protocol and to experiment with its features.
 
 ## Features
 - **Lightweight Protocol**: Implements the Gemini protocol which is designed to be simple and minimalistic.
